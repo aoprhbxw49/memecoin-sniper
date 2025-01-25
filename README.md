@@ -1,4 +1,4 @@
-# Solana-Sniping-Bot
+# Memecoin-Sniper
 
 
 **SOL Trading Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in SOL.
